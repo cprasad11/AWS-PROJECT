@@ -4,6 +4,6 @@ response = client.run_instances(
     ImageId='ami-04b3f96fa99d40135',
     InstanceType='t2.micro',
     KeyName ='mumbai',
-    MaxCount=1,
-    MinCount=9,
-
+    MaxCount=2,
+    MinCount=1,
+                  file is changed------------
